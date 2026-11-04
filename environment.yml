@@ -1,0 +1,12 @@
+name: AquaSentinel
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - torch
+    - rasterio
+    - geopandas
+    - planetary-computer
+# Initial conda environment for AquaSentinel

@@ -1,0 +1,26 @@
+# Core data science and machine learning libraries
+numpy
+pandas
+scipy
+
+# Deep learning framework
+torch
+
+# Image processing and geospatial data handling
+rasterio
+affine
+geopandas
+shapely
+
+# Planetary Computer interaction
+pystac-client
+planetary-computer
+
+# Lightning for easier PyTorch training
+lightning
+
+# Segmentation models
+segmentation-models-pytorch
+
+# Optional: for potential future use or debugging
+matplotlib
